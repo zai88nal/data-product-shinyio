@@ -1,6 +1,6 @@
 # data-product-shinyio
 
-Code and slides for Course Project: Shiny Application and Reproducible Pitch
+Code for Course Project: Shiny Application and Reproducible Pitch
 
 "Developing Data Products" Coursera.
 
